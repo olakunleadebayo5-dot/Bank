@@ -93,5 +93,5 @@ Based on the analysis, the bank could:
 
 ## 👨‍💻 Author
 
- **Samuel Adebayo*
+ ## *Samuel Adebayo*
 BI/Data Analyst | Power BI | Data Storytelling
